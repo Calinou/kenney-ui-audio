@@ -41,8 +41,8 @@ if you do not have Git installed.
 
 ## Usage
 
-Load textures from the `addons/kenney_particle_pack/` folder as you would
-load other textures in your project.
+Load sounds from the `addons/kenney_ui_audio/` folder as you would
+load other sounds in your project.
 
 ## License
 
